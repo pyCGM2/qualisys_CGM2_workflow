@@ -1,6 +1,7 @@
-*.pyc 
+*.pyc
+*.qtmproj 
 __pycache__/
-/Data/
+Data/
 /Calibrations/
 /AIM models/Backups/
 /Messages/
